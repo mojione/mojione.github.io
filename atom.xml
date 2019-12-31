@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://localhost:4000</id>
+    <title>MoJi</title>
+    <updated>2019-12-31T09:22:04.192Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <subtitle>一点墨迹，磨磨叽叽，默默积极</subtitle>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
+    <rights>All rights reserved 2019, MoJi</rights>
+    <entry>
+        <title type="html"><![CDATA[翻新]]></title>
+        <id>http://localhost:4000/post/renovate</id>
+        <link href="http://localhost:4000/post/renovate">
+        </link>
+        <updated>2019-12-31T08:06:12.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1577781639398.JPG" alt="" loading="lazy"></figure>
+<p>在 2019 年的最后一天，我决定将闲置许久的域名用上，将拖延已久的新网站上线，做点输出的事情。</p>
+<p>2019 年对我来说，不算一个好年，伤病困扰，精力不济，时常迷惑，很多想做的事情，都最终没做，又得过且过地度过了一年。</p>
+<p>许多故事想法停留在构思，没有动笔。是时候挑几个出来写写了。✍️</p>
+<p>花在娱乐的时间太多，学习思考的时间太少。娱乐之余，倒是给一个游戏贡献了不少脚本。🤦‍♂️</p>
+<p>好好学一两门手艺活——这话去年也说过。</p>
+<p>「致广大而尽精微」，漫漫长路，徐徐而行。</p>
+<p>一页新篇，愿有新颜。</p>
+]]></content>
+    </entry>
+</feed>

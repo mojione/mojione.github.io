@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://moji.one</id>
     <title>MoJi</title>
-    <updated>2019-12-31T10:09:12.096Z</updated>
+    <updated>2020-01-03T01:54:01.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://moji.one"/>
     <link rel="self" href="https://moji.one/atom.xml"/>
     <subtitle>一点墨迹，磨磨叽叽，默默积极</subtitle>
     <logo>https://moji.one/images/avatar.png</logo>
     <icon>https://moji.one/favicon.ico</icon>
-    <rights>All rights reserved 2019, MoJi</rights>
+    <rights>All rights reserved 2020, MoJi</rights>
     <entry>
         <title type="html"><![CDATA[翻新]]></title>
         <id>https://moji.one/post/renovate</id>
